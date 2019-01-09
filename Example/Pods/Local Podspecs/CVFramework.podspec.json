@@ -1,0 +1,22 @@
+{
+  "name": "CVFramework",
+  "version": "0.1.0",
+  "summary": "A short description of CVFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jzy476731162@vip.qq.com/CVFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jzy476731162@vip.qq.com": "jzy476731162@vip.qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jzy476731162@vip.qq.com/CVFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CVFramework/Classes/**/*"
+}

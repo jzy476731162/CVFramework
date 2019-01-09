@@ -1,0 +1,16 @@
+PODS:
+  - CVFramework (0.1.0)
+
+DEPENDENCIES:
+  - CVFramework (from `../`)
+
+EXTERNAL SOURCES:
+  CVFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CVFramework: cc68a8d5943041b532f0f1b2058205685a11f13c
+
+PODFILE CHECKSUM: 10fdff6ddeaf1ad9c7ed9aa4b3a4b07d306f96a4
+
+COCOAPODS: 1.5.3

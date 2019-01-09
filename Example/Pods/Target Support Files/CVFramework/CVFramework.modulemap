@@ -1,0 +1,6 @@
+framework module CVFramework {
+  umbrella header "CVFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
