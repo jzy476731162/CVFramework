@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CVFramework_Tests' do
+  pod 'CVFramework', :path => '../'
+  
+  
+end
